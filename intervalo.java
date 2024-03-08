@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ex3 {
+public class intervalo {
     public static void main(String args[]){
         Scanner entrada = new Scanner(System.in);
         System.out.println("Insira o primeiro número:");
