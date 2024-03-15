@@ -1,4 +1,4 @@
-public class main {
+public class print {
     public static void main(String args[]){
         int a=10;
         char b='S';
