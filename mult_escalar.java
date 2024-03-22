@@ -1,12 +1,12 @@
 import java.util.Scanner;
 
-public class status_aluno {
+public class mult_escalar {
     public static void main(String args[]){
         Scanner entrada = new Scanner(System.in);
         int i=0, N=0;
         System.out.println("Insira o tamanho do vetor:");
         N = entrada.nextInt();
-        int M[N];
+        int M[] = new int[N];
         System.out.println("Insira "+N+" números em ordem crescente para preencher o vetor:");
         while(i<N){
             System.out.println("Insira o "+(i+1)+"° número:");
