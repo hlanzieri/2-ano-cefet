@@ -10,7 +10,7 @@ public class projeto {
         meuCarro.setPlaca("RUR7I72");
         meuCarro.setNumPortas(4);
 
-        Dono.setNome("Humberto de Moraes Lanzieri");
+        Dono.setNome("Humberto de Moraes Lanzieri Filho");
         Dono.setIdade(50);
         Dono.setBiotipo("Mesomorfo");
         Dono.setCorDoCabelo("Preto");
